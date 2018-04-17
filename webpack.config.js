@@ -1,6 +1,11 @@
+const path = require('path');
+
 module.exports = {
-  entry: 'src/assets/js/index.js',
-  output: '_site/assets/index.js',
+  entry: path.resolve(__dirname, 'src/assets/js/main.js'),
+  output: {
+    path: path.resolve(__dirname, 'src/assets'),
+    filename: 'index.js'
+  },
   module: {
     rules: [
       {
