@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title></title>
-</head>
-<body>
+---
+layout: default
+---
 
 <h1>Hello, I'm Jack</h1>
 
-<script type="text/javascript" src="index.js" charset="utf-8"></script>
-</body>
-</html>
+<a href="{{ prepend: site.baseurl }}/about">about</a>
+
+<br>
+
+{% for post in site.posts %}
+  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{% endfor %}
