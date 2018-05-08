@@ -29,3 +29,7 @@ a:hover {
 .index-post__title {
   font-size: 32px;
 }
+
+.view-post__category {
+  color: var(--jackson-purple);
+}

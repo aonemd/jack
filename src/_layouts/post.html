@@ -2,4 +2,18 @@
 layout: default
 ---
 
-{{ content }}
+<article>
+  <div class="row">
+    <div class="col-12 text-center">
+        <h1>{{ page.title }} <small class="view-post__category">{{ page.categories }}</small></h1>
+
+      <h5><span>{{ page.date | date: "%B %-d, %Y" }}</span></h5>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-6 center">
+      {{ content }}
+    </div>
+  </div>
+</article>

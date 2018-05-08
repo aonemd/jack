@@ -1,7 +1,7 @@
 body {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: normal;
-  line-height: 30px;
+  line-height: 34px;
   font-family: var(--latin-font);
 }
 
@@ -21,4 +21,4 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-small { font-size: 50%; }
+small { font-size: 30%; }
