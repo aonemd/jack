@@ -6,7 +6,7 @@
   margin-bottom: 35px;
   height: 65px;
   line-height: 65px;
-  background-color: var(--dark-matter);
+  background-color: var(--background-color);
 
   & ul {
     text-decoration: none;

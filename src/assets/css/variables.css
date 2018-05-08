@@ -1,9 +1,12 @@
 :root {
-  --white:           #f2f2f2;
-  --dark-matter:     #1b1918;
-  --jackson-purple:  #1F3A93;
-  --gray:            #606060;
-  --foreground:      var(--white);
+  --white:       #f2f2f2;
+  --dark-matter: #1b1918;
+  --high-blue:   #45aaf2;
+  --gray:        #606060;
 
-  --latin-font:      'Open Sans', sans-serif;
+  --background-color: var(--dark-matter);
+  --foreground-color: var(--white);
+  --secondary-color:  var(--high-blue);
+
+  --latin-font: 'Open Sans', sans-serif;
 }

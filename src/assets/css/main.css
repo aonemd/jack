@@ -5,12 +5,12 @@
 @import "navbar";
 
 body {
-  background-color: var(--dark-matter);
-  color: var(--foreground);
+  background-color: var(--background-color);
+  color: var(--foreground-color);
 }
 
 a {
-  color: var(--jackson-purple);
+  color: var(--secondary-color);
   text-decoration: none;
 }
 
@@ -31,5 +31,5 @@ a:hover {
 }
 
 .view-post__category {
-  color: var(--jackson-purple);
+  color: var(--secondary-color);
 }
