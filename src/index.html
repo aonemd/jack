@@ -9,5 +9,16 @@ layout: default
 <br>
 
 {% for post in site.posts %}
-  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  <div class="row">
+    <div class="col-12">
+      <div class="text-center">
+        <div class="row">
+          <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+        </div>
+        <div class="row">
+          <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
 {% endfor %}

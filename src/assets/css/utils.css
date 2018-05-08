@@ -1,0 +1,11 @@
+.text-right  { text-align: right  !important; }
+.text-left   { text-align: left   !important; }
+.text-center { text-align: center !important; }
+
+.right  { float: right !important; }
+.left   { float: left  !important; }
+.center {
+  margin-left:  auto !important;
+  margin-right: auto !important;
+  float:        none !important;
+}

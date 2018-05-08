@@ -1,3 +1,6 @@
-body {
+@import "grid";
+@import "utils";
+
+body{
   background-color: purple;
 }
