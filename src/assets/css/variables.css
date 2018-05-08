@@ -1,7 +1,8 @@
 :root {
   --white:           #f2f2f2;
-  --jackson-purple:  #1F3A93;
   --dark-matter:     #1b1918;
+  --jackson-purple:  #1F3A93;
+  --gray:            #606060;
   --foreground:      var(--white);
 
   --latin-font:      'Open Sans', sans-serif;

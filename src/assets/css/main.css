@@ -2,6 +2,7 @@
 @import "utils";
 @import "variables";
 @import "typography";
+@import "navbar";
 
 body {
   background-color: var(--dark-matter);
