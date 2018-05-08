@@ -1,6 +1,30 @@
 @import "grid";
 @import "utils";
+@import "variables";
+@import "typography";
 
-body{
-  background-color: purple;
+body {
+  background-color: var(--dark-matter);
+  color: var(--foreground);
+}
+
+a {
+  color: var(--jackson-purple);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.index-post {
+  margin-bottom: 20px;
+}
+
+.index-post__date {
+  font-size: 16px;
+}
+
+.index-post__title {
+  font-size: 32px;
 }

@@ -12,11 +12,17 @@ layout: default
   <div class="row">
     <div class="col-12">
       <div class="text-center">
-        <div class="row">
-          <span>{{ post.date | date: "%B %-d, %Y" }}</span>
-        </div>
-        <div class="row">
-          <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        <div class="index-post">
+          <div class="row">
+            <div class="index-post__date">
+              <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="index-post__title">
+              <span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
