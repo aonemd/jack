@@ -6,9 +6,9 @@ pre,
 code {
   font-size: 16px;
   font-family: var(--monospace-font) !important;
-  color: var(var(--foreground-color)) !important;
-  background-color: var(var(--bg-color)) !important;
-  border: 1px solid var(var(--bg-color)) !important;
+  color: var(--foreground-color) !important;
+  background-color: var(--bg-color) !important;
+  border: 1px solid var(--bg-color) !important;
   border-radius: 3px;
 }
 
