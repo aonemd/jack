@@ -3,6 +3,14 @@ jack
 
 A simple, dark, and modern Jekyll theme
 
+## Features
+
+- Backed by Webpack, ES6, and PostCSS for compiling assets
+- Dark theme
+- Simple design suitable for quick blogging
+- Responsive
+- Nice build system
+
 ## Installation
 
 - Install `ruby` and `yarn`
