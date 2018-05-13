@@ -8,7 +8,7 @@ A simple, dark, and modern Jekyll theme
 - Backed by Webpack, ES6, and PostCSS for compiling assets
 - Dark theme
 - Simple design suitable for quick blogging
-- Responsive
+- Mobile first and responsive layout
 - Nice build system
 
 ## Installation
