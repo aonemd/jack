@@ -11,7 +11,7 @@ nav {
   margin-bottom: 35px;
 
   & .title a {
-    color: var(--off-white) !important;
+    color: var(--white) !important;
     font-size: 28px;
     font-weight: bold;
     text-decoration: none;
@@ -36,7 +36,7 @@ nav {
       margin: 0;
 
       &:hover {
-        color: var(--off-white) !important;
+        color: var(--white) !important;
         transition: color .2s ease-in-out;
       }
 
@@ -46,7 +46,7 @@ nav {
         fill: var(--gray);
 
         &:hover {
-          fill: var(--off-white);
+          fill: var(--white);
           transition: fill .2s ease-in-out;
         }
       }
