@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/jack/feed.xml" rel="self" type="application/atom+xml" /><link href="/jack/" rel="alternate" type="text/html" /><updated>2018-12-22T11:40:23+02:00</updated><id>/jack/</id><title type="html">jack</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Hello, world!</title><link href="/jack/blog/hello-world" rel="alternate" type="text/html" title="Hello, world!" /><published>2018-05-08T10:00:57+02:00</published><updated>2018-05-08T10:00:57+02:00</updated><id>/jack/blog/hello-world</id><content type="html" xml:base="/jack/blog/hello-world">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/jack/feed.xml" rel="self" type="application/atom+xml" /><link href="/jack/" rel="alternate" type="text/html" /><updated>2018-12-22T12:30:00+02:00</updated><id>/jack/</id><title type="html">jack</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Hello, world!</title><link href="/jack/blog/hello-world" rel="alternate" type="text/html" title="Hello, world!" /><published>2018-05-08T10:00:57+02:00</published><updated>2018-05-08T10:00:57+02:00</updated><id>/jack/blog/hello-world</id><content type="html" xml:base="/jack/blog/hello-world">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -20,6 +20,10 @@ ut hic dolor eum eum voluptates. Sint autem omnis nulla aspernatur
 reprehenderit! Ad veritatis nihil sint omnis deleniti soluta Quis culpa
 perferendis!&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;this is a blockquote&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;Ipsum porro beatae pariatur maiores nobis Voluptates dolorum a explicabo
 molestiae repellendus quasi voluptatem Quod similique nemo architecto
 repellendus earum? Veritatis voluptatibus quasi doloremque officia sed
@@ -33,17 +37,40 @@ necessitatibus deserunt harum ipsa dignissimos, vitae. Ipsa itaque repudiandae
 consectetur expedita nisi, ad explicabo Reiciendis odit quam fugit est
 doloremque Earum laborum.&lt;/p&gt;
 
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tables&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 3 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zebra stripes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
 &lt;p&gt;Amet perspiciatis sequi laudantium asperiores veritatis voluptate molestiae,
 aspernatur. Exercitationem exercitationem aut labore in quos Debitis
 reprehenderit omnis repellat unde eos. Dicta sequi error quas facere facilis
 consectetur Error alias Dolor blanditiis accusantium ex ea dolores,
 perspiciatis reprehenderit quam? Accusantium adipisci accusamus quia ipsum
 blanditiis Neque totam ipsum recusandae enim corrupti. Quae ea veritatis
-voluptatem doloribus ipsum Repellat facilis ducimus&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;this is a blockquote&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="hello" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jack/blog/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-04-17T15:56:52+02:00</published><updated>2018-04-17T15:56:52+02:00</updated><id>/jack/blog/welcome-to-jekyll</id><content type="html" xml:base="/jack/blog/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+voluptatem doloribus ipsum Repellat facilis ducimus&lt;/p&gt;</content><author><name></name></author><category term="hello" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jack/blog/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-04-17T15:56:52+02:00</published><updated>2018-04-17T15:56:52+02:00</updated><id>/jack/blog/welcome-to-jekyll</id><content type="html" xml:base="/jack/blog/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
