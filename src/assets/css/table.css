@@ -1,0 +1,15 @@
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  margin: 1.5em 10px;
+}
+
+td, th {
+  text-align: left;
+  padding: 0.5rem;
+}
+
+tbody tr:nth-child(odd) {
+   background-color: var(--lighter-dark);
+}

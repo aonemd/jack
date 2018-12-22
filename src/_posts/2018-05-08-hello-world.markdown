@@ -28,6 +28,8 @@ ut hic dolor eum eum voluptates. Sint autem omnis nulla aspernatur
 reprehenderit! Ad veritatis nihil sint omnis deleniti soluta Quis culpa
 perferendis!
 
+> this is a blockquote
+
 Ipsum porro beatae pariatur maiores nobis Voluptates dolorum a explicabo
 molestiae repellendus quasi voluptatem Quod similique nemo architecto
 repellendus earum? Veritatis voluptatibus quasi doloremque officia sed
@@ -41,6 +43,12 @@ necessitatibus deserunt harum ipsa dignissimos, vitae. Ipsa itaque repudiandae
 consectetur expedita nisi, ad explicabo Reiciendis odit quam fugit est
 doloremque Earum laborum.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Amet perspiciatis sequi laudantium asperiores veritatis voluptate molestiae,
 aspernatur. Exercitationem exercitationem aut labore in quos Debitis
 reprehenderit omnis repellat unde eos. Dicta sequi error quas facere facilis
@@ -48,8 +56,6 @@ consectetur Error alias Dolor blanditiis accusantium ex ea dolores,
 perspiciatis reprehenderit quam? Accusantium adipisci accusamus quia ipsum
 blanditiis Neque totam ipsum recusandae enim corrupti. Quae ea veritatis
 voluptatem doloribus ipsum Repellat facilis ducimus
-
-> this is a blockquote
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
