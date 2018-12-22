@@ -1,0 +1,25 @@
+blockquote {
+  background-color: var(--lighter-dark);
+  color: var(--foreground-color);
+  border: 1px solid var(--lighter-dark);
+  border-left: 10px solid #ccc;
+  text-align: center !important;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+
+  & p {
+    display: inline;
+  }
+
+  & cite {
+    display: block;
+    text-align: center !important;
+    font-size: 14px;
+    font-weight: normal;
+  }
+
+  & cite:before {
+    content: "\2014 \2009";
+    font-size: 14px;
+  }
+}

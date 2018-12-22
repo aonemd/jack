@@ -2,6 +2,7 @@
 @import "utils";
 @import "variables";
 @import "typography";
+@import "blockquote";
 @import "navbar";
 @import "syntax-solarized-light";
 
